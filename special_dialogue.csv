@@ -14,3 +14,5 @@
 "Opening a second instance of the game.","DDLC.exe","So, you have two copies of the game.","c","Huh, neat.","d","",""
 "Opening a second instance of app. (only if its possible to sync)","MonikAI.exe (First instance)","I found you, Faker!","i","...","h","I'll make you eat those words","i"
 "Opening a second instance of app. (only if its possible to sync)","MonikAI.exe (Second instance)","Faker? I think you're the fake Monika around here.","i","You're comparing yourself to me? Ha. You're not even good enough to be my fake.","l","",""
+"","Exiting sleep mode (Laptops)","ZZZZZZzzzzzzzzz....huh?","q","Sorry, I must have fallen asleep.","n","",""
+"Some people dont turn their computers off, just lock the account for overnight.","User logs back into account (from a locked state)","[This could be any of the startup dialogue]","","","","",""
